@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
-
+﻿大傻聪
 public class 视角移动 : MonoBehaviour {
 
     Camera mCamera;
